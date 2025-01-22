@@ -8,7 +8,7 @@ Comforty is an e-commerce platform specializing in stylish and comfortable chair
 ### Frontend Structure
 **Framework**: Next.js 14 with TypeScript for fast server-side rendering (SSR) and dynamic routing.
 
-![System Overview](./Documentation/images/diagram.png)
+![System Overview](./Documentation/images/diagram-01.png)
 
 #### Key Pages:
 - **Home**: Showcases featured chair categories, trending products, and ongoing promotions.
